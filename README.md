@@ -5,6 +5,7 @@
 - Building data pipelines for AI products
 - Developing LLM-powered applications
 - Learning machine learning systems and MLOps
+- Still exploring what great UX for AI products looks like.
 
 ---
 
