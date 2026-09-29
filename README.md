@@ -1,7 +1,7 @@
 # About Me!
 
 👨🏻‍💻 **Current**
-- I'm a Data Engineer @ SyncTrue (legal tech) previously worked/studied on Human-Computer Interaction.
+- I'm a Product Engineer @ SyncTrue (legal tech) previously worked/studied on Human-Computer Interaction.
 - Building data pipelines for AI products
 - Developing LLM-powered applications
 - Learning machine learning systems and MLOps
